@@ -1,0 +1,35 @@
+/* Example styles for the About Us page */
+
+.about-us-container {
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .about-us-section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .about-us-content {
+    text-align: center;
+  }
+  
+  .about-us-logo {
+    max-width: 200px;
+    margin-bottom: 20px;
+  }
+  
+  .about-us-text {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
+  .about-us-text:last-child {
+    margin-bottom: 0;
+  }
+  
